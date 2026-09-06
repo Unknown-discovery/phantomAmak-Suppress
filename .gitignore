@@ -1,0 +1,6 @@
+/build/
+/cmake-build-*/
+*.amak
+*.f32
+.amak-tmp-*/
+__pycache__/
